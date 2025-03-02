@@ -24,7 +24,7 @@
 - Taskify, 일정 관리 사이트 (코드잇 프로젝트 - 중급)
 
 ## ✅ Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChan-Lee)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChan-Lee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokChan-Lee&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
