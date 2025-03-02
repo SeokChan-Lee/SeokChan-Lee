@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30&text=Frontend%20Developer)
 
-## 💻 Skill
+## 📖 Skill
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +19,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+## 💻 Projects
+- Open Mind, 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
+- Taskify, 일정 관리 사이트 (코드잇 프로젝트 - 중급)
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChan-Lee)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokChan-Lee&hide=contribs,prs&show_icons=true&theme=graywhite)
+<a href="https://seokchan.tistory.com/"><img src="https://github.com/user-attachments/assets/1b5f5190-632d-493a-a55b-a7dbbcd8b4c4"><a>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true&text=Email%20:%20melee0826@gmail.com&fontColor=ffffff&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true&text=Email%20:%20melee0826@gmail.com&fontColor=ffffff&fontSize=25)
