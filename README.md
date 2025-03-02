@@ -13,7 +13,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🛠️Tools & Collaboration
+## 🛠️ Tools & Collaboration
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -23,10 +23,10 @@
 - Open Mind, 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
 - Taskify, 일정 관리 사이트 (코드잇 프로젝트 - 중급)
 
-## Stats
+## ✅ Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChan-Lee)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokChan-Lee&hide=contribs,prs&show_icons=true&theme=graywhite)
-<a href="https://seokchan.tistory.com/"><img src="https://github.com/user-attachments/assets/1b5f5190-632d-493a-a55b-a7dbbcd8b4c4"><a>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true&text=Email%20:%20melee0826@gmail.com&fontColor=ffffff&fontSize=25)
