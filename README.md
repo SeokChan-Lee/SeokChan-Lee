@@ -25,7 +25,6 @@
 - Open Mind, 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
 
 ## ✅ Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeokChan-Lee)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokChan-Lee&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
