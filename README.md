@@ -20,9 +20,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 💻 Projects
-- **Epigram**, 감정 커뮤니티 사이트 (코드잇 프로젝트 - 심화)
-- **Taskify**, 일정 관리 사이트 (코드잇 프로젝트 - 중급)
-- **Open Mind**, 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
+- [**Epigram**](https://github.com/kss761036/Epigram), 감정 커뮤니티 사이트 (코드잇 프로젝트 - 심화)
+- [**Taskify**](https://github.com/ToKyun02/Taskify), 일정 관리 사이트 (코드잇 프로젝트 - 중급)
+- [**Open Mind**](https://github.com/park521/codeit-7team), 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokChan-Lee&hide=contribs,prs&show_icons=true&theme=graywhite)
