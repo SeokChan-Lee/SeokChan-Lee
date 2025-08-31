@@ -33,4 +33,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true&text=✉️%20:%20melee0826@gmail.com&fontColor=ffffff&fontSize=25)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=175&section=footer&reversal=true&text=✉️%20:%20melee0826@gmail.com&fontColor=ffffff&fontSize=25) 
