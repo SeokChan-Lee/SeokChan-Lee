@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe7ca9,100:64b3f4&height=155&section=header&fontColor=ffffff&descSize=30&descAlignY=30&text=Frontend%20Developer&fontSize=55) 
+
+## 📚 Blog [(Link)](https://dolog-ten.vercel.app/)
  
 ## 📖 Skill
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -24,10 +26,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 💻 Projects
-- [**Welive**](https://project-welive-fe.vercel.app/), 아파트 관리 사이트 (코드잇 프로젝트 - 인턴)
-- [**Epigram**](https://github.com/kss761036/Epigram), 감정 커뮤니티 사이트 (코드잇 프로젝트 - 심화)
-- [**Taskify**](https://github.com/ToKyun02/Taskify), 일정 관리 사이트 (코드잇 프로젝트 - 중급)
-- [**Open Mind**](https://github.com/park521/codeit-7team), 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
+- [**Welive**](https://project-welive-fe.vercel.app/) 아파트 관리 사이트 (코드잇 프로젝트 - 인턴)
+- [**Epigram**](https://github.com/kss761036/Epigram) 감정 커뮤니티 사이트 (코드잇 프로젝트 - 심화)
+- [**Taskify**](https://github.com/ToKyun02/Taskify) 일정 관리 사이트 (코드잇 프로젝트 - 중급)
+- [**Open Mind**](https://github.com/park521/codeit-7team) 익명 커뮤니티 사이트 (코드잇 프로젝트 - 기초)
 
 ## ✅ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokChan-Lee&hide=contribs,prs&show_icons=true&theme=graywhite)
