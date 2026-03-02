@@ -2,7 +2,7 @@
 
 ## 💼 Career
 **Bixpayments (빅스페이먼츠)** | Frontend Developer
-2025.12 ~ Present
+2025.12 ~ 
 
 ## 📚 Blog [(Link)](https://dolog-ten.vercel.app/)
  
