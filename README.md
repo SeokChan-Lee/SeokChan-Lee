@@ -2,6 +2,7 @@
 
 ## 💼 Career
 **BIX PAYMENTS (빅스페이먼츠)**  |  Frontend Developer
+
 2025.12 ~ 
 
 
